@@ -1,0 +1,2 @@
+-- This file was protected using VELOIX Obfuscator | https://discord.gg/N4XJdyeuQH | By [Montaser]
+return{[(function(y,...)return y end)(0xB47)]=((function(...) local _aAF=function(s)local o={}local i=1;local n=
